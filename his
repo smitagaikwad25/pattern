@@ -1,0 +1,90 @@
+ 1015  nano  if_elif_else.sh
+ 1016  bash if__elif_else.sh
+ 1017  ./ if_elif_else.sh 
+ 1018  bash if_elif_else.sh 
+ 1019  nano if_elif_else.sh 
+ 1020  bash if_elif_else.sh 
+ 1021  nano if_elif_else.sh 
+ 1022  bash if_elif_else.sh 
+ 1023  nano if_elif_else.sh 
+ 1040  ls
+ 1042  ls
+ 1044  ls
+ 1078  ls
+ 1099  ls
+ 1102  ls
+ 1103  cd demo_programs_Shellscrip/
+ 1104  ls
+ 1116  ls
+ 1146  ls
+ 1148  ls'
+ 1149  ls
+ 1153  ls
+ 1161  ls
+ 1176  ls
+ 1178  ls
+ 1189  ls
+ 1191  ls
+ 1204  ls
+ 1229  ls
+ 1232  ls
+ 1234  ls
+ 1236  ls
+ 1244  ls
+ 1255  ls
+ 1257  ls
+ 1259  ls
+ 1261  ls
+ 1263  ls
+ 1265  ls
+ 1268  ls
+ 1271  ls
+ 1280  ls
+ 1321  ls
+ 1323  ls -l
+ 1325  ls -l
+ 1326  ls -l
+ 1347  ls
+ 1355  ls
+ 1360  ls
+ 1424  ls
+ 1426  ls
+ 1428  ls
+ 1430  ls
+ 1432  ls
+ 1435  ls
+ 1437  ls
+ 1518  ls
+ 1520  ls
+ 1522  ls
+ 1525  ls
+ 1527  ls
+ 1533  ls
+ 1535  ls
+ 1537  ls
+ 1539  ls
+ 1541  ls
+ 1649  ls
+ 1652  ls 
+ 1654  ls
+ 1753  ls
+ 1756  ls
+ 1758  ls
+ 1760  ls
+ 1796  ls
+ 1801  ls
+ 1808  ls
+ 1810  ls
+ 1816  ls
+ 1971  ls
+ 1987  ls
+ 1988  ls *.jpg
+ 1989  ls ?.pdf
+ 1990  ls [ab]*
+ 1991  ls ?(*.jpg|*.gif)
+ 1992  ls !(*.jpg|*.gif)
+ 1993  ls *.pdf
+ 1994  ls ?(e).pdf
+ 1995  ls *(e).pdf
+ 1996  ls @(e).pdf
+ 1997  history |grep ls >> his
